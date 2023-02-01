@@ -4,7 +4,6 @@ const msgSpan=form.querySelector(".msg");
 //.class .class vs .class.class
 const list=document.querySelector(".container .cities");
 
-localStorage.setItem("apiKey", EncryptStringAES("ef04109b84386ea17c37cfdd4cc4a6bb"));
 
 
 //html inline assign, addEventListener, onclick, setAttribute 
